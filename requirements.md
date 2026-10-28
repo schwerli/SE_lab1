@@ -1,7 +1,7 @@
 # 校园二手交易系统需求（李涵 231220161）
 
 仓库：https://github.com/schwerli/SE_lab1  
-版本：lab1-compact-v1
+版本：lab1-final
 
 未实现软件，验收方法为后续标准。来源INT-01为正式访谈，INT-02为跟进沟通。
 
